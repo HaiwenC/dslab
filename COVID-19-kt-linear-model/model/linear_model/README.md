@@ -1,0 +1,1 @@
+multi_si_linear.py contains the linearized version of the multi-SI model. 
